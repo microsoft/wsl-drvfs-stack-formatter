@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "name": "wsl-drvfs-stack-formatter",
+  "main": "wsl-drvfs-stack-formatter",
+  "version": "1.0.0",
+  "description": "Replaces drvfs mountpoints with Windows pathnames in Error stacktraces when using node under the Windows Subsystem for Linux",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "is-wsl": "^1.1.0"
+  }
+}
